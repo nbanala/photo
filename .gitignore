@@ -1,21 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/bookmarks.iml
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-account/__init__.py
-account/__pycache__/
-account/admin.py
-account/apps.py
-account/migrations/
-account/models.py
-account/tests.py
-account/views.py
-bookmarks/
-db.sqlite3
-manage.py
 *.pyc
+db.sqlite3
 myvenv
 __pycache__
 local_settings.py
