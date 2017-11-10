@@ -28,7 +28,7 @@ SECRET_KEY = '3%3@-=2j_d!kc9(%k^fhx61fhb#_5(4*nocmfhmdj_=lgh&_^5'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 ALLOWED_HOSTS = ['*']
-DEBUG = False
+DEBUG = True
 
 try:
     from .local_settings import *
